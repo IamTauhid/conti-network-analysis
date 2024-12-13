@@ -54,7 +54,7 @@ The leaked data from the Conti ransomware group provides a unique opportunity to
 
 conti-ransom-leak-analysis/ │ ├── data/ # Raw and processed data ├── notebooks/ # Jupyter notebooks for analysis ├── scripts/ # Python scripts for specific tasks ├── results/ # Outputs such as visualizations and summaries ├── README.md # Project overview └── requirements.txt # Python dependencies
 
-```
+
 Copy code
 
 ---
